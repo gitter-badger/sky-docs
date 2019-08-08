@@ -1,7 +1,7 @@
 ## Sky Cloud 
 
 [![Build Status](https://travis-ci.org/xk11961677/framework.svg?branch=master)](https://travis-ci.org/xk11961677/framework)
-[![license](https://img.shields.io/badge/license-MIT-ff69b4.svg)](https://mit-license.org/license.html)
+[![license](https://img.shields.io/badge/license-MIT-ff69b4.svg)](https://mit-license.org/license.html) [![Join the chat at https://gitter.im/sky-docs/community](https://badges.gitter.im/sky-docs/community.svg)](https://gitter.im/sky-docs/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
 <!-- 代码结构 -->
